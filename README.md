@@ -1,1 +1,1 @@
-# RealTime-Face-Recognization-and-Attendence-Taker
+# Real time face recognition and attendance tracker.
